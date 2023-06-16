@@ -1,0 +1,21 @@
+.questio_reponse{
+    margin: 0px 10%;
+    margin-bottom: 3%;
+    background-color: #edeff4;
+}
+#question{
+    font-size: 17px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    /* background-color:beige; */
+}
+#reponse{
+    padding-bottom: 20px;
+    padding-left: 18px;
+    font-size: 17px;
+    background-color: aliceblue;
+}
+#title_faq{
+    font-size: 20px;
+    text-align: center;
+}
